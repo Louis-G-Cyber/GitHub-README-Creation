@@ -34,7 +34,7 @@ Designed and implemented a professional GitHub README to serve as a personal cyb
 
   ## README Demo Slideshow
 
-Here’s an animated view of the GitHub README Creation project:
+Here’s an animated view of the GitHub README Creation project: Click on me.
 
 ![README Demo](Git-creation.gif)
 
